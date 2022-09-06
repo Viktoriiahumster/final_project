@@ -1,0 +1,43 @@
+class TestData:
+    BASE_URL = 'https://www.ozon.ru/'
+
+    #Заголовки
+    ELEMENT_OF_WINDOW_OZON_TRAVEL = "Поиск дешёвых авиабилетов"
+    HEADER_OF_CHAPTER_OF_CLOTHES_AND_SHOES = "ЖЕНЩИНАМ"
+    HEADER_OF_PAGE_FAVORITES = "Избранное"
+    HEADER_OF_PAGE_OF_ACTIONS = "Выгодные предложения — интернет-магазин OZON"
+    HEADER_OF_PAGE_OF_BRENDS = "Все бренды"
+    HEADER_OF_PAGE_OF_ELECTRONICA_MAIN = "Электроника"
+    HEADER_OF_PAGE_OF_HOUSE_AND_GARDEN = "Дом и сад"
+    HEADER_OF_PAGE_OF_KIDS_GOODS = "Детские товары"
+    HEADER_OF_PAGE_OF_SHOPS = "Все магазины"
+    HEADER_OF_WINDOW_CART = 'Моя корзина'
+    HEADER_OF_WINDOW_CATALOG = ''
+    HEADER_OF_WINDOW_FROM_CATALOG = "Электроника - купить электронику по низким ценам в интернет-магазине OZON"
+    HEADER_OF_WINDOW_INSTALLEMENT = "Оформить рассрочку онлайн в интернет-магазине OZON"
+    HEADER_OF_WINDOW_MAIN_LOGO = 'Скоро выгода до 80% — интернет-магазин OZON'
+    HEADER_OF_WINDOW_OZON_BANK = "OZON Карта - Скидки на миллионы товаров"
+    HEADER_OF_WINDOW_PREMIUM = "Бесплатная курьерская доставка на заказ от 499 р"
+    HEADER_OF_WINDOW_XPRS = 'Товары с экспресс-доставкой'
+    HEADER_OF_PAGE_SERTIFICATE = 'Электронный подарочный сертификат Миллион подарков (3000) - купить по выгодной цене в интернет-магазине OZON'
+    HEADER_OF_WINDOW_SELECT_CITY = 'Добавьте точный адрес, удобный пункт выдачи или постамат, чтобы заранее увидеть условия доставки товаров'
+    LOGIN_TITLE = "Ozon ID"
+    NAME_OF_BUTTON_ACTIONS = "Акции"
+    NAME_OF_BUTTON_BRANDS = "Бренды"
+    NAME_OF_BUTTON_CATALOG = "Каталог"
+    NAME_OF_BUTTON_CLOTHES_AND_SHOES = "Одежда и обувь"
+    NAME_OF_BUTTON_ELECTRONICA_MAIN = "Электроника"
+    NAME_OF_BUTTON_FAVORITES = "Избранное"
+    NAME_OF_BUTTON_HOUSE_AND_GARDEN = "Дом и сад"
+    NAME_OF_BUTTON_KIDS_GOODS = "Детские товары"
+    NAME_OF_BUTTON_INSTALLEMENT = "Рассрочка"
+    NAME_OF_BUTTON_OZON_BANK = "Ozon Карта"
+    NAME_OF_BUTTON_OZON_TRAVEL = "Билеты и Отели"
+    NAME_OF_BUTTON_Premium = "Premium"
+    NAME_OF_BUTTON_TOP_FASHION = "TOP Fashion"
+    RESULT_SEARCH = "книга - купить на OZON"
+    REFERALS_NAME = "Реферальная программа Ozon"
+    Text_For_Input = "книги"
+    PROMO_EXMPL = "12345"
+    PROMO_PAGE_TXT = "Вы не авторизованы"
+    ELECTRONICA= "Электроника"
